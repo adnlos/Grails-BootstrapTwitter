@@ -1,0 +1,8 @@
+#Grails Metadata file
+#Thu Jul 05 15:17:41 CDT 2012
+app.grails.version=2.0.0
+app.name=pomodoroApp
+app.servlet.version=2.5
+app.version=0.1
+plugins.svn=1.0.2
+plugins.twitter-bootstrap=2.0.2.25
